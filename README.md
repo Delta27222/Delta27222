@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 
 ## Little Projects
-- https://delta27222.github.io/RickAndMorty_AP/
+- https://delta27222.github.io/RickAndMorty_API/
 - https://delta27222.github.io/AguacateShop/
 
 
