@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Delta27222
+- 👋 Hi, I’m @Delta27222 -> Software Engineer student 💻🖱⌨❤
 - 👀 I’m interested in Learn everything about my career 
 - 🌱 I’m currently learning JavaScript
 
