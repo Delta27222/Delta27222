@@ -3,13 +3,15 @@
 - 🌱 I’m currently learning JavaScript
 
 ## Little Projects
-> https://delta27222.github.io/RickAndMorty_API/
----
-> https://delta27222.github.io/AguacateShop_API/
----
-> https://delta27222.github.io/What_Does_The_Fox_Say_API/
+> https://delta27222.github.io/React_Todo_App/
 ---
 > https://delta27222.github.io/Weather_API/
+---
+> https://delta27222.github.io/RickAndMorty_API/
+---
+>  https://delta27222.github.io/What_Does_The_Fox_Say_API/
+---
+> https://delta27222.github.io/AguacateShop_API/
 
 <!---
 Delta27222/Delta27222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
