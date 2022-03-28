@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 
 # Card Profile
-> https://delta27222.github.io/Profile_Card_ReactJs/
+> https://delta27222.github.io/Personal_card_profile/
 
 ## Little Projects
 > https://delta27222.github.io/React_Todo_App/
