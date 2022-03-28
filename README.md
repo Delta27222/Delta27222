@@ -2,6 +2,9 @@
 - 👀 I’m interested in Learn everything about my career 
 - 🌱 I’m currently learning JavaScript
 
+# Card Profile
+> https://delta27222.github.io/Profile_Card_ReactJs/
+
 ## Little Projects
 > https://delta27222.github.io/React_Todo_App/
 ---
