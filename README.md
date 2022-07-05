@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 👨‍💻Card Profile
-   [![Card](https://cdn.icon-icons.com/icons2/1808/PNG/48/code_115247.png)](https://delta27222.github.io/Personal_card_profile/) 
+   [![Card](https://cdn.icon-icons.com/icons2/3088/PNG/48/user_profile_rating_icon_191400.png)](https://delta27222.github.io/Personal_card_profile/) 
 
 ## 🌐 Socials:
 [![Instagram](https://cdn.icon-icons.com/icons2/1584/PNG/48/3721672-instagram_108066.png)](https://instagram.com/angel__hbz) 
