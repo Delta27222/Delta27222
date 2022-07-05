@@ -47,14 +47,10 @@
 
 
 ## Little Projects
-> https://delta27222.github.io/React_Todo_App/
----
-> https://delta27222.github.io/Weather_API/
----
-> https://delta27222.github.io/RickAndMorty_API/
----
->  https://delta27222.github.io/What_Does_The_Fox_Say_API/
----
-> https://delta27222.github.io/AguacateShop_API/
+> https://delta27222.github.io/React_Todo_App/<br>
+> https://delta27222.github.io/Weather_API/<br>
+> https://delta27222.github.io/RickAndMorty_API/<br>
+>  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
+> https://delta27222.github.io/AguacateShop_API/<br>
 
 
