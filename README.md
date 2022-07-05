@@ -2,11 +2,11 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 👨‍💻Card Profile
->[![Instagram](https://cdn.icon-icons.com/icons2/1808/PNG/48/code_115247.png)](https://delta27222.github.io/Personal_card_profile/) 
+>[![Card](https://cdn.icon-icons.com/icons2/1808/PNG/48/code_115247.png)](https://delta27222.github.io/Personal_card_profile/) 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AngelHBZ#8286) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel__hbz) 
+[![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)](htttps://discord.gg/AngelHBZ#8286) 
+[![Instagram](https://cdn.icon-icons.com/icons2/1753/PNG/48/ico…-media-applications-3instagram-4102579_113804.png)](https://instagram.com/angel__hbz) 
 [![Spotify](https://cdn.icon-icons.com/icons2/3053/PNG/48/spotify_alt_macos_bigsur_icon_189704.png)](https://instagram.com/angel__hbz) 
 
 # 💻 Tech Stack:
