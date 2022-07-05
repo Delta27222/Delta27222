@@ -5,7 +5,7 @@
 >[![Card](https://cdn.icon-icons.com/icons2/1808/PNG/48/code_115247.png)](https://delta27222.github.io/Personal_card_profile/) 
 
 ## 🌐 Socials:
-[![Instagram](https://cdn.icon-icons.com/icons2/1753/PNG/48/ico…-media-applications-3instagram-4102579_113804.png)](https://instagram.com/angel__hbz) 
+[![Instagram](https://cdn.icon-icons.com/icons2/1584/PNG/48/3721672-instagram_108066.png)](https://instagram.com/angel__hbz) 
 [![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)](htttps://discord.gg/AngelHBZ#8286) 
 [![Spotify](https://cdn.icon-icons.com/icons2/3053/PNG/48/spotify_alt_macos_bigsur_icon_189704.png)](https://instagram.com/angel__hbz) 
 
