@@ -3,7 +3,7 @@
 
 # Card Profile
 > https://delta27222.github.io/Personal_card_profile/
-
+[![Card_Profile](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AngelHBZ#8286) 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AngelHBZ#8286) 
