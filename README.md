@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-## 👨‍💻Card Profile
+# 👨‍💻Card Profile
    [![Card](https://cdn.icon-icons.com/icons2/3088/PNG/96/user_profile_rating_icon_191400.png)](https://delta27222.github.io/Personal_card_profile/) 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://cdn.icon-icons.com/icons2/1584/PNG/48/3721672-instagram_108066.png)](https://instagram.com/angel__hbz) 
 <br>[![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)](htttps://discord.gg/AngelHBZ#8286) 
 <br>[![Spotify](https://cdn.icon-icons.com/icons2/3053/PNG/48/spotify_alt_macos_bigsur_icon_189704.png)](https://instagram.com/angel__hbz) 
@@ -39,14 +39,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
-## Little Projects
+# Little Projects
 > https://delta27222.github.io/React_Todo_App/<br>
 > https://delta27222.github.io/Weather_API/<br>
 > https://delta27222.github.io/RickAndMorty_API/<br>
