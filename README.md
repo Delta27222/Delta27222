@@ -39,11 +39,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# Little Projects
-> https://delta27222.github.io/React_Todo_App/<br>
-> https://delta27222.github.io/Weather_API/<br>
-> https://delta27222.github.io/RickAndMorty_API/<br>
->  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
-> https://delta27222.github.io/AguacateShop_API/<br>
+# Little Projects<br>
+* https://delta27222.github.io/React_Todo_App/<br>
+* https://delta27222.github.io/Weather_API/<br>
+* https://delta27222.github.io/RickAndMorty_API/<br>
+*  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
+* https://delta27222.github.io/AguacateShop_API/<br>
 
 
