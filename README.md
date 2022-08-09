@@ -6,8 +6,8 @@
 
 # 🌐 Socials:
 [![Instagram](https://cdn.icon-icons.com/icons2/1584/PNG/48/3721672-instagram_108066.png)](https://instagram.com/angel__hbz) 
-<br>[![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)](htttps://discord.gg/AngelHBZ#8286) 
-<br>[![Spotify](https://cdn.icon-icons.com/icons2/3053/PNG/48/spotify_alt_macos_bigsur_icon_189704.png)](https://instagram.com/angel__hbz) 
+[![Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)](htttps://discord.gg/AngelHBZ#8286) 
+[![Spotify](https://cdn.icon-icons.com/icons2/3053/PNG/48/spotify_alt_macos_bigsur_icon_189704.png)](https://instagram.com/angel__hbz) 
 
 # 💻 Tech Stack:
 - Languages<br>
