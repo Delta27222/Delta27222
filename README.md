@@ -41,16 +41,15 @@ https://beacons.ai/delta27222
 ![](https://github-readme-stats.vercel.app/api?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+   # Little Projects<br>
 <p align="center">
-# Little Projects<br>
-* https://delta27222.github.io/React_Todo_App/<br>
-* https://delta27222.github.io/Weather_API/<br>
-* https://delta27222.github.io/RickAndMorty_API/<br>
-*  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
-* https://delta27222.github.io/AguacateShop_API/<br>
-* https://delta27222.github.io/12-Course_Consuming_API_Rest.io/
-   <p>
+   * https://delta27222.github.io/React_Todo_App/<br>
+   * https://delta27222.github.io/Weather_API/<br>
+   * https://delta27222.github.io/RickAndMorty_API/<br>
+   *  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
+   * https://delta27222.github.io/AguacateShop_API/<br>
+   * https://delta27222.github.io/12-Course_Consuming_API_Rest.io/
+<p>
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
