@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/16375100/125825025-74b5b1cd-c5d2-40f1-902a-5b5902720d90.png" width="300"/>
+</p>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>
 https://beacons.ai/delta27222
 
@@ -47,4 +50,8 @@ https://beacons.ai/delta27222
 * https://delta27222.github.io/AguacateShop_API/<br>
 * https://delta27222.github.io/12-Course_Consuming_API_Rest.io/
 
-
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
+  </a>
+</p>
