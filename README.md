@@ -45,5 +45,6 @@ https://beacons.ai/delta27222
 * https://delta27222.github.io/RickAndMorty_API/<br>
 *  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
 * https://delta27222.github.io/AguacateShop_API/<br>
+* https://delta27222.github.io/12-Course_Consuming_API_Rest.io/
 
 
