@@ -38,11 +38,11 @@ https://beacons.ai/delta27222
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-   <p>
+
 # Little Projects<br>
    <p align="center">
       * https://delta27222.github.io/React_Todo_App/<br>
