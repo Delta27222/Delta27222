@@ -2,6 +2,10 @@
 <p align="center">
    <img className="round" src="https://avatars.githubusercontent.com/u/64968854?v=4" alt="user" width="150"/>
 </p>
+```
+Hello, I'm a Software Engineer student. On the way to become a frontend developer, lover of new technologies.
+With intermediate knowledge and understanding of method, principles, and techniques.
+```
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>
 https://beacons.ai/delta27222
 
