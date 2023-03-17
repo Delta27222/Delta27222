@@ -45,9 +45,9 @@ https://beacons.ai/delta27222
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Delta27222&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Delta27222&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta27222&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # Little Projects<br>
 
@@ -68,10 +68,9 @@ https://beacons.ai/delta27222
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=RickAndMorty_API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+<br>
 <br/>
-<br/>
-<br/>
-<p align="center">
+<p align="center" width="100%>
   <a href="#">
     <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
   </a>
