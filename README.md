@@ -53,21 +53,24 @@ https://beacons.ai/delta27222
 
 
   <a href="https://delta27222.github.io/React_Todo_App" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=React_Todo_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=React_Todo_App&title_color=d83b7d&text_color=a6faf3&icon_color=d83b7d&bg_color=141321&hide_border=true&locale=en" />
   </a>
+
   <a href="https://delta27222.github.io/Pokedux_App/" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=Pokedux_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=Pokedux_App&title_color=d83b7d&text_color=a6faf3&icon_color=d83b7d&bg_color=141321&hide_border=true&locale=en" />
   </a>
 
 <a href="https://delta27222.github.io/Weather_API" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=Weather_API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=Weather_API&title_color=d83b7d&text_color=a6faf3&icon_color=d83b7d&bg_color=141321&hide_border=true&locale=en" />
   </a>
 
   <a href="https://delta27222.github.io/RickAndMorty_API/" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=RickAndMorty_API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta27222&repo=RickAndMorty_API&title_color=d83b7d&text_color=a6faf3&icon_color=d83b7d&bg_color=141321&hide_border=true&locale=en&" />
   </a>
 
-
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 <p align="center" ma>
   <a href="#">
     <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
