@@ -51,20 +51,27 @@ https://beacons.ai/delta27222
 
 # Little Projects<br>
 
-<div width="100%" align="center"><a href="https://github.com/Sazocar/todo-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sazocar/weather-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://delta27222.github.io/React_Todo_App" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 
-<br /><br /><br /><br /><br />
+  <a href="https://delta27222.github.io/Weather_API" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<div width="100%" align="center">
+  <a href="https://delta27222.github.io/Pokedux_App/" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 
-<div width="100%" align="center"><a href="https://github.com/Sazocar/profile-card" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=profile-card&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sazocar/rick-and-morty-api-example" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=rick-and-morty-api-example&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-   <p align="center">
-      * https://delta27222.github.io/React_Todo_App/<br>
-      * https://delta27222.github.io/Weather_API/<br>
-      * https://delta27222.github.io/RickAndMorty_API/<br>
-      * https://delta27222.github.io/Pokedux_App/<br>
-      *  https://delta27222.github.io/What_Does_The_Fox_Say_API/<br>
-      * https://delta27222.github.io/AguacateShop_API/<br>
-      * https://delta27222.github.io/12-Course_Consuming_API_Rest.io/
-   <p>
+  <a href="https://delta27222.github.io/RickAndMorty_API/" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sazocar&repo=todo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br />
+<br />
+<br />
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
