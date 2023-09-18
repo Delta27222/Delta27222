@@ -6,6 +6,11 @@
 ```
 Hello, I'm a Software Engineer student. On the way to become a frontend developer, lover of new technologies.
 With intermediate knowledge and understanding of method, principles, and techniques.
+<p align="center" ma>
+  <a href="#">
+    <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
+  </a>
+</p>
 ```
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>
@@ -76,35 +81,3 @@ https://angel-hernandez-dev.vercel.app
     <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
   </a>
 </p>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Sitio Web</title>
-  <style>
-    /* Estilos para el botón */
-    .github-button {
-      background-color: #0366d6; /* Color de fondo del botón */
-      color: #fff; /* Color del texto del botón */
-      padding: 10px 20px; /* Espaciado interno del botón */
-      border: none; /* Sin borde */
-      border-radius: 5px; /* Borde redondeado */
-      cursor: pointer; /* Cambio de cursor al pasar el ratón */
-      text-decoration: none; /* Sin subrayado de enlace */
-    }
-
-    /* Estilos para el botón al pasar el ratón */
-    .github-button:hover {
-      background-color: #0546a0; /* Cambia el color de fondo al pasar el ratón */
-    }
-  </style>
-</head>
-<body>
-  <h1>Bienvenido a Mi Sitio Web</h1>
-  <!-- Botón que enlaza al README de tu repositorio en GitHub -->
-  <a href="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/README.md" class="github-button" target="_blank">Ver README en GitHub</a>
-</body>
-</html>
-
