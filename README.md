@@ -6,15 +6,17 @@
 ```
 Hello, I'm a Software Engineer student. On the way to become a frontend developer, lover of new technologies.
 With intermediate knowledge and understanding of method, principles, and techniques.
-<p align="center" ma>
-  <a href="#">
-    <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
-  </a>
-</p>
 ```
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact <br>
 https://angel-hernandez-dev.vercel.app
+<p align="center" ma>
+  <a href="https://angel-hernandez-dev.vercel.app ">
+    <img src="https://img.shields.io/badge/⬆️back_to_top_⬆️-white" alt="Back to top" title="Back to top"/>
+  </a>
+</p>
+
+[![Awesome](https://awesome.re/badge.svg)](https://angel-hernandez-dev.vercel.app)
 
 # 👨‍💻Card Profile
    [![Card](https://cdn.icon-icons.com/icons2/3088/PNG/96/user_profile_rating_icon_191400.png)](https://delta27222.github.io/Personal_card_profile/) 
